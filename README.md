@@ -1,2 +1,2 @@
 # devops-workshop
-This is a collaboration development
+This is a Collaboration Development
